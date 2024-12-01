@@ -1,4 +1,4 @@
-# botWhatsappStickers
+# Stickers4every1
 Bot de whatsapp para recibir imagenes y enviar stickers
 
 ## Tecnologías Utilizadas
